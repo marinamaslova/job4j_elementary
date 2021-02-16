@@ -10,5 +10,6 @@ public class ArrayLoop {
             System.out.println(number);
 
         }
+
     }
 }
